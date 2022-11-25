@@ -14,6 +14,7 @@ public class TestClass {
                 nstr= ch+nstr; //adds each character in front of the existing string
             }
             System.out.println("Reversed word: "+ nstr);
+            //For github purpose commit
 
     }
 
